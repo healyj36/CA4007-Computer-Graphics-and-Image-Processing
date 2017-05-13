@@ -1,0 +1,17 @@
+*.exe
+*.h
+*.dll
+*.lib
+
+Computer Graphics/cube.c
+Computer Graphics/cube2.c
+Computer Graphics/Idle.c
+Computer Graphics/lighting.c
+Computer Graphics/MouseFunction.c
+Computer Graphics/MouseFunction2.c
+Computer Graphics/MouseMotion.c
+Computer Graphics/Reshape.c
+Computer Graphics/simple.c
+Computer Graphics/texture.bin
+Computer Graphics/textured-poly.c
+Computer Graphics/textured-sphere.c
